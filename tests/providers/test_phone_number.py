@@ -344,6 +344,7 @@ class TestFrCh:
 
 class TestFrDz(TestArDz):
     """Test fr_DZ phone number provider methods"""
+
     pass
 
 
