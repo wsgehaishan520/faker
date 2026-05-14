@@ -1,5 +1,9 @@
 ## Changelog
 
+### [v40.17.0 - 2026-05-14](https://github.com/joke2k/faker/compare/v40.16.0...v40.17x.0)
+
+* Add `am_ET` `phone_number` provider for Ethiopia. Thanks @jasur-py.
+
 ### [v40.16.0 - 2026-05-14](https://github.com/joke2k/faker/compare/v40.15.0...v40.16.0)
 
 * Fix duplicate phone number prefix `145` in `zh_CN` locale. Thanks @r266-tec.
