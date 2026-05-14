@@ -1,6 +1,6 @@
 ## Changelog
 
-### [v40.15.0 - 2026-04-17](https://github.com/joke2k/faker/compare/v40.15.0...v40.16.0)
+### [v40.16.0 - 2026-05-14](https://github.com/joke2k/faker/compare/v40.15.0...v40.16.0)
 
 * Fix duplicate phone number prefix `145` in `zh_CN` locale. Thanks @r266-tec.
 
